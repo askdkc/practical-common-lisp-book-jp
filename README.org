@@ -1,0 +1,2 @@
+* Practical Common Lispの日本語訳
+Webで無償公開されている[[https://gigamonkeys.com/book/][Practical Common Lisp]]の日本語訳
